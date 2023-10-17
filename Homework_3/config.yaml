@@ -1,0 +1,7 @@
+folder_in: /home/irina/folder_in
+folder_out: /home/irina/folder_out
+folder_ext: /home/irina/folder_ext
+folder_ext2: /home/irina/folder_ext2
+count: 3
+bs: 1M
+type: zip
